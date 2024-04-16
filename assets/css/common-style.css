@@ -829,7 +829,7 @@ button {
 }
 
 .page-header-info p {
-    color: var(--light-grey-color);
+    color: black;
     margin: 0;
 }
 
